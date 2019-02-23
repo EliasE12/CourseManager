@@ -70,6 +70,7 @@ public class Main {
 				break;
 				case 4:
 					System.out.print("The current week has advanced");
+					myCourse.advanceWeek();
 				break;
 				case 5:
 					System.out.print("Thank you. Bye!");
